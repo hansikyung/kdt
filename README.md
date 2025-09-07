@@ -3,6 +3,10 @@
 
 ---
 
+머신러닝 / 딥러닝 쉬운 설명에 대한 오픈소스 링크 : https://easy.prag-ai.com 
+
+---
+
 데이터분석 - 판다스에서 제공하는 다양한 함수들 : https://pandas.pydata.org/docs/reference/api/pandas.Series.str.upper.html
 
 csv, json, jsonl 파일 저장과 불러오기 : 파일_저장_불러오기.py 파일 참고
