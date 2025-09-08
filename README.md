@@ -3,7 +3,7 @@
 
 ---
 
-머신러닝 / 딥러닝 쉬운 설명에 대한 오픈소스 링크 : https://easy.prag-ai.com 
+머신러닝 / 딥러닝 쉬운 설명에 대한 오픈 커뮤니티 링크 : https://easy.prag-ai.com 
 
 ---
 
