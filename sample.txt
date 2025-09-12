@@ -1,3 +1,16 @@
+texts = ["I love this movie! It was fantastic!", 
+         "This is the worst experience I have ever had.", 
+         '''In today's fast-paced and highly interconnected world, technology has revolutionized nearly every aspect of human life, from the way we communicate and work to how we access information, entertain ourselves, and even manage our daily routines, with smartphones, artificial intelligence, cloud computing, and the internet playing crucial roles in shaping modern society by enabling instant global communication, facilitating remote work, streamlining complex processes, and providing an unprecedented level of convenience that previous generations could hardly have imagined; however, while these advancements have brought countless benefits, such as increased efficiency, improved accessibility to education and healthcare, and the ability to stay connected with friends and family regardless of physical distance, they have also introduced new challenges and concerns, including privacy risks, cybersecurity threats, social isolation, and the potential for misinformation to spread rapidly across digital platforms, making it essential for individuals, businesses, and governments to strike a delicate balance between embracing innovation and implementing safeguards to protect personal data, ensure online security, and promote ethical technology use, all while fostering a digital landscape that encourages creativity, inclusivity, and meaningful human interactions rather than dependency on screens and algorithms to dictate every aspect of daily life.''']
+
+
+
+
+
+
+
+
+
+
 text = '''The vast and opaque power of Elon Musk is only growing as he seeks new targets for his federal government shredding machine.
 
 The head of President Donald Trump’s Department of Government Efficiency is closing in on his latest victim — an independent government agency set up to shield Americans from the Wall Street excesses that caused the Great Recession.
