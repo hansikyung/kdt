@@ -1,6 +1,13 @@
 # kdt
 한기대 머신러닝 / 딥러닝
 
+--
+
+mistralai 라이브러리를 쓰면 OCR 결과를 단순 텍스트가 아니라 원본 문서처럼, 이미지까지 포함된 마크다운으로 정리해줘서 후처리하거나 RAG에 활용
+
+https://docs.mistral.ai/capabilities/document_ai/document_ai_overview/
+
+
 ---
 
 머신러닝 / 딥러닝 쉬운 설명에 대한 오픈 커뮤니티 링크 : https://easy.prag-ai.com 
