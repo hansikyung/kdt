@@ -48,7 +48,13 @@ https://docs.mistral.ai/capabilities/document_ai/document_ai_overview/
 
 csv, json, jsonl 파일 저장과 불러오기 : 파일_저장_불러오기.py 파일 참고
 
-차트에 한글 표시 : 차트_한글처리.py 파일 참고 
+### 주피터 노트북에서 차트한글 처리 하기
+
+```python
+%pip install koreanize-matplotlib
+from koreanize_matplotlib import koreanize
+koreanize()
+```
 
 ---
 
